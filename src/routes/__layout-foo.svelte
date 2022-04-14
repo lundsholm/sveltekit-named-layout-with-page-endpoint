@@ -1,0 +1,2 @@
+<div>Foo</div>
+<slot />
